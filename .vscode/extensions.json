@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "johnsoncodehk.volar",
+    "bradlc.vscode-tailwindcss",
+    "ant-design-vue.vscode-ant-design-vue-helper",
+    "gruntfuggly.todo-tree",
+    "eamodio.gitlens"
+  ]
+}
