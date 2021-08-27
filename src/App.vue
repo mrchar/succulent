@@ -1,6 +1,6 @@
 <template>
   <div :class="{ dark: dark }" class="w-screen h-screen">
-    <div class="bg-green-100 dark:bg-gray-900 w-full h-full py-20 lg:py-40">
+    <div class="bg-white dark:bg-gray-900 w-full h-full py-20 lg:py-40">
       <div
         class="
           absolute
