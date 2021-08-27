@@ -1,5 +1,9 @@
 <template>
-  <a-card class="rounded-lg" title="随机数生成器">
+  <a-card
+    class="rounded-lg dark:bg-gray-600"
+    :bordered="false"
+    title="随机数生成器"
+  >
     <a-form
       :model="formState"
       :labelCol="{ span: 6 }"
