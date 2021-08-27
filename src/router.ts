@@ -9,6 +9,11 @@ const routes = [
     path: "/random-generator",
     name: "RandomGenerator",
     component: () => import("@/views/RandomGenerator.vue")
+  },
+  {
+    path: "/ruler",
+    name: "Ruler",
+    component: () => import("@/views/Ruler.vue")
   }
 ]
 
